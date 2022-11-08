@@ -1,5 +1,4 @@
-# Pattern_Recognition
-
+# Combination of pattern classifiers based on naive bayes and fuzzy integral method for biological signal applications
 # Project Summery: 
 Background: Achieving the best possible classification accuracy is the main purpose of
 each pattern recognition scheme. An interesting area of classifier design is to design for biomedical
