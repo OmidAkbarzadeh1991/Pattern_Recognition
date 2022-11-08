@@ -1,6 +1,6 @@
 # Pattern_Recognition
 
-Project Summery: 
+# Project Summery: 
 Background: Achieving the best possible classification accuracy is the main purpose of
 each pattern recognition scheme. An interesting area of classifier design is to design for biomedical
 signal and image processing.
